@@ -1,0 +1,13 @@
+# npm debugging logs
+npm-debug.logs*
+
+# project dependecies
+node_modules
+
+# temporary files 
+*.tmp
+
+# more files to ignore 
+
+*.log*
+*~
